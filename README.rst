@@ -1,4 +1,4 @@
-Juster
+happy_couple
 ===========
 Script for create cover of animation from revenge of the nerds movie
 
@@ -56,6 +56,6 @@ It can be use, to simulate real coding:
     - > dance('right-left', 'forward', 'sound'='on')
     
     
-## screen from happy_couple animation
-
-![image](happy_couple.png)
+Screen from happy_couple animation
+===========
+.. image:: happy_couple.png
