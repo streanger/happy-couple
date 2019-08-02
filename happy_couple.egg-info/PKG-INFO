@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: happy-couple
-Version: 0.1.0
+Version: 0.1.1
 Summary: cover of scene from revenge of the nerds
 Home-page: https://github.com/streanger/happy_couple
 Author: streanger
 Author-email: divisionexe@gmail.com
 License: MIT
-Description: Juster
+Description: happy_couple
         ===========
         Script for create cover of animation from revenge of the nerds movie
         
@@ -64,9 +64,9 @@ Description: Juster
             - > dance('right-left', 'forward', 'sound'='on')
             
             
-        ## screen from happy_couple animation
-        
-        ![image](happy_couple.png)
+        Screen from happy_couple animation
+        ===========
+        .. image:: happy_couple.png
         
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3

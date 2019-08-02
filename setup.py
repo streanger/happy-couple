@@ -14,7 +14,7 @@ sounds = [os.path.join('sounds', item) for item in os.listdir('happy_couple/soun
 
 setuptools.setup(
     name='happy_couple',
-    version='0.1.0',
+    version='0.1.1',
     author="streanger",
     author_email="divisionexe@gmail.com",
     description="cover of scene from revenge of the nerds",

@@ -10,7 +10,6 @@ happy_couple.egg-info/SOURCES.txt
 happy_couple.egg-info/dependency_links.txt
 happy_couple.egg-info/requires.txt
 happy_couple.egg-info/top_level.txt
-happy_couple/lines_only/__init__.py
 happy_couple/lines_only/small_head.png
 happy_couple/lines_only/th_view_01.png
 happy_couple/lines_only/th_view_02.png
@@ -30,7 +29,6 @@ happy_couple/lines_only/waiting_woman.png
 happy_couple/lines_only/walking_man_01.png
 happy_couple/lines_only/walking_man_02.png
 happy_couple/lines_only/walking_man_03.png
-happy_couple/sounds/__init__.py
 happy_couple/sounds/smb_coin.wav
 happy_couple/sounds/smb_jump.wav
 happy_couple/sounds/smb_touch.wav
